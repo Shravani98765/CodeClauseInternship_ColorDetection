@@ -13,5 +13,7 @@ That's 255 x 255 x 255 = 16581375 ways to define a color.
 We use pandas to read the data from the dataset and we use simple concepts of OpenCV to deal with images.
 
 IDE: Python 3.12
+
 Language: Python
+
 Dataset: https://www.kaggle.com/code/mohammedlahsaini/color-detection-using-opencv/input?select=colors.csv
